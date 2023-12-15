@@ -26,7 +26,7 @@ Users have diverse tastes, and one set of movie selections will not fit all, and
 Can we accurately recommend movies that can bring more user engagement?
 
 #### Data Sources
-The data used to solve this problem is collected from the website called grouplens(https://grouplens.org/datasets/movielens/), GroupLens research has collected movie ratings from the MovieLens website, the data collected thousands of movies from many users in various points of the time. The dataset describes the 5-star ratings and free-text tagging activity from MovieRlens. The users who participated in this survey were selected randomly, and all the selected users had rated at least 20 movies.
+The data used to solve this problem is collected from the website called grouplens(https://grouplens.org/datasets/movielens/), datasets ml-latest-small(https://files.grouplens.org/datasets/movielens/ml-latest-small.zip), GroupLens research has collected movie ratings from the MovieLens website, the data collected thousands of movies from many users in various points of the time. The dataset describes the 5-star ratings and free-text tagging activity from MovieRlens. The users who participated in this survey were selected randomly, and all the selected users had rated at least 20 movies.
 
 Citation: F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872
 
