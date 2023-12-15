@@ -55,8 +55,7 @@ Performed collaborative filtering models
 * Performed GridSearchCV for optimizing the SVD hyperparameter tuning, to improve the performance of the model.
 * Lastly, performed k-fold cross-validation of the models using metrics such as Root Mean Square Error(RMSE), Mean Square Error(MSE), and Fit time.
 
-  ![Screen Shot 2023-12-14 at 8 45 58 PM](https://github.com/vnyreddy/Capstone-2/assets/18583217/1746066f-651b-4dad-b044-24c1e858e1e8)
-
+  ![Screen Shot 2023-12-14 at 10 39 33 PM](https://github.com/vnyreddy/Capstone-2/assets/18583217/1a92c168-183d-4902-9e39-2c17a7b2690f)
 
 MSE and RMSE are metrics for evaluating the accuracy of a predictive model. It measures the average magnitude of the error between predicted values and actual values. The fit time is used to evaluate the performance of the model by the time it took to run the model.
 
