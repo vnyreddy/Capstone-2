@@ -41,12 +41,22 @@ Here is the step-by-step process
 
 * First, the data is gathered from the above-mentioned source as CSV files, then read and create data frames that can be used for modeling.
 * Then performed data analysis, and visualized the distribution rating per user and movie, as well as the distribution of genres. And checked the data quality, fortunately, the data is clean.
+
+  ![Screen Shot 2023-12-14 at 8 46 46 PM](https://github.com/vnyreddy/Capstone-2/assets/18583217/f6ffdb49-298d-41bb-9de5-d806a01ecba1)
+
+  ![Screen Shot 2023-12-14 at 8 47 04 PM](https://github.com/vnyreddy/Capstone-2/assets/18583217/869cdf4c-d003-4b86-b1a6-4bf0d21a5b27)
+
+  ![Screen Shot 2023-12-14 at 8 47 21 PM](https://github.com/vnyreddy/Capstone-2/assets/18583217/1f2da8b3-f34d-4c17-9f34-eb7277b8b12a)
+
 * Prepared data using Surprise library, and split data into test set and train set.
 Performed collaborative filtering models
 * Created and trained a simple baseline model to use it as a point of comparison for more complex models.
 * Then created and trained more complex models such as SlopeOne, Singular Value Decomposition(SVD), and KNNBase.
 * Performed GridSearchCV for optimizing the SVD hyperparameter tuning, to improve the performance of the model.
 * Lastly, performed k-fold cross-validation of the models using metrics such as Root Mean Square Error(RMSE), Mean Square Error(MSE), and Fit time.
+
+  ![Screen Shot 2023-12-14 at 8 45 58 PM](https://github.com/vnyreddy/Capstone-2/assets/18583217/1746066f-651b-4dad-b044-24c1e858e1e8)
+
 
 MSE and RMSE are metrics for evaluating the accuracy of a predictive model. It measures the average magnitude of the error between predicted values and actual values. The fit time is used to evaluate the performance of the model by the time it took to run the model.
 
@@ -63,7 +73,7 @@ The MovieLens dataset doesn't have explicit tags for each movie, and the dataset
 
 #### Outline of project
 
-- https://github.com/vnyreddy/Capstone/blob/master/MovieRecommendation.ipynb
+- https://github.com/vnyreddy/Capstone-2/blob/master/MovieRecommendation.ipynb
 
 
 ##### Contact and Further Information
